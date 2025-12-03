@@ -74,7 +74,7 @@ If you want to add a profile photo in the hero section:
 All your contact info is already in there, but double-check:
 - Email: chibuikeumeike@gmail.com
 - Phone: +1-205-887-3455
-- Location: Tuscaloosa, Alabama
+- Location: Washington DC
 
 ### 4. Customize Colors (Optional)
 Open `css/style.css` and change these at the top:
